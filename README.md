@@ -9,10 +9,10 @@
 </p> 
 <pre>
 - 🏢 I'm a Junior Frontend Developer.
-- 👨‍💻 As a IT student, I'm constantly learning and exploring new
-      technologies to improve my skills.
-- 💬 Ask me about my experience with  HTML, CSS, JavaScript,and
-      ReactJS, or anything related to web development.
+- 👨‍💻 As a IT student, I'm constantly learning and exploring
+     new technologies to improve my skills.
+- 💬 Ask me about my experience with  HTML, CSS, JavaScript,
+     and ReactJS, or anything related to web development.
 - ⚡ Fun fact: I am a soccer fan.
 </pre>
 
